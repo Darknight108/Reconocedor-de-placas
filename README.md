@@ -4,15 +4,17 @@ Este proyecto procesa un video para identificar y extraer texto de las placas ve
 
 ## Requisitos
 
-Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas y bibliotecas:
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
-1. **Python** (versión 3.8 o superior)
-2. [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-3. Las siguientes bibliotecas de Python:
-   - `opencv-python`
-   - `pytesseract`
-   - `numpy`
-   - `Pillow`
+### Software Necesario
+1. **Python** (versión 3.8 o superior).
+2. [Tesseract OCR](https://github.com/tesseract-ocr/tesseract). Descárgalo e instálalo desde el sitio oficial.
+
+### Instalación de Bibliotecas
+Las dependencias de este proyecto están listadas en el archivo `requirements.txt`. Puedes instalarlas fácilmente siguiendo los pasos a continuación.
+ ```bash
+pip install -r requirements.txt
+
 
 ## Instalación
 
