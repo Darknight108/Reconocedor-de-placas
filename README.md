@@ -1,6 +1,3 @@
-Aquí tienes el `README.md` con explicaciones detalladas de todos los pasos, en formato Markdown:
-
-```markdown
 # Detección de Placas Vehiculares
 
 Este proyecto procesa un video para identificar y extraer texto de las placas vehiculares utilizando OpenCV y Tesseract OCR. A continuación, se detallan los pasos necesarios para configurar y ejecutar este proyecto en tu máquina.
@@ -113,7 +110,4 @@ Este proyecto utiliza bibliotecas de Python que están listadas en el archivo `r
 
 ---
 
-¡Disfruta utilizando esta herramienta para detectar texto en placas vehiculares! 🚗
-```
 
-Este `README.md` incluye explicaciones detalladas y bien organizadas para facilitar la comprensión y ejecución del proyecto. 😊
