@@ -15,7 +15,7 @@ Asegúrate de tener **Python** (versión 3.8 o superior) instalado en tu sistema
   ```
 
 ### 2. Instalar Tesseract OCR
-Descarga e instala [Tesseract OCR](https://github.com/tesseract-ocr/tesseract). Es una herramienta necesaria para la detección de texto en las imágenes. 
+Descarga e instala [Tesseract OCR](https://github.com/UB-Mannheim/tesseract/wiki). Es una herramienta necesaria para la detección de texto en las imágenes. 
 - **En Windows**: Descarga el instalador desde el sitio oficial. Durante la instalación, anota la ruta de instalación (por defecto es `C:\Program Files\Tesseract-OCR\tesseract.exe`).
 - **En Linux**: Instálalo con:
   ```bash
