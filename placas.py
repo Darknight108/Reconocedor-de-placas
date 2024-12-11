@@ -6,6 +6,9 @@ from PIL import Image
 
 # Realizamos la videocaptura
 cap = cv2.VideoCapture("Placa.mp4")
+if not cap.isOpened():
+    print("Error: No se puede abrir el archivo de video.")
+    exit()
 
 Ctexto = ''
 
